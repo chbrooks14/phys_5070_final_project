@@ -1,0 +1,10 @@
+References for calculations in this project:
+
+ -- Ch. Skokos (2001) J. Phys. A: Math. Gen. 34 10029
+ -- E. Zotos (2015) Nonlinear Dynamics (NODY) vol. 79, pp. 1665-1677
+ -- Ch. Skokos & T. Manos (2016) "Chaos Detection and Predictability." Chapter 5
+
+External web references:
+
+ -- https://mathworld.wolfram.com/Henon-HeilesEquation.html
+ -- https://en.wikipedia.org/wiki/Lyapunov_exponent
